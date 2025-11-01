@@ -1,4 +1,4 @@
-# 🚀 Hello, I'm [Guru]!
+# Hello, I'm [Guru]!
 
 ### Full-Stack Developer | AI & Workflow Automation Enthusiast
 
@@ -6,7 +6,7 @@ I specialize in building robust, data-driven web applications with a focus on so
 
 ---
 
-## 💡 Current Web3 Focus
+## Current Web3 Focus
 
 I am actively diving into decentralized systems and currently building a **Prediction Market DApp** inspired by the architecture of Polymarket. This is a deep dive into core blockchain principles.
 
@@ -15,7 +15,7 @@ I am actively diving into decentralized systems and currently building a **Predi
 
 ---
 
-## 💻 My Core Technology Stack
+## My Core Technology Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -27,7 +27,7 @@ I am actively diving into decentralized systems and currently building a **Predi
 
 ---
 
-## ✨ Featured Projects
+## Featured Projects
 
 Here are a few high-impact projects that showcase my technical expertise.
 
@@ -41,21 +41,21 @@ Here are a few high-impact projects that showcase my technical expertise.
 * **CI/CD Implementation:** Implemented a robust CI/CD pipeline using **Docker** and **GitHub Actions** for automated testing and deployment.
 * ➡️ **Repository:** [https://github.com/wakeupguruu/Peer-to-Peer-Wallet-System](https://github.com/wakeupguruu/Peer-to-Peer-Wallet-System)
 
-### 3. Code X (E-Learning Platform)
-* **Structured Education:** Created a full-stack platform that provides a structured DSA roadmap with theoretical content, examples, and integrated video solutions.
-* **Multi-Language Integration:** Implemented code solution displays in C++, Java, and Python with dynamic theme switching for optimal user experience.
-* ➡️ **Repository:** [https://github.com/wakeupguruu/Code-X](https://github.com/wakeupguruu/Code-X)
+### 4. Dark PDF (Client-Side Privacy Tool)
+* **Privacy-Focused Utility:** Developed a front-end website hosted on **Vercel** that converts Light Mode PDFs to **Dark Mode** entirely on the client's machine to guarantee user privacy.
+* **Client-Side Processing:** Engineered the application to run all core conversion logic locally in the browser, eliminating the need for a back-end or user data transmission.
+* ➡️ **Live Site:** [Vercel Deployment Link] (You may want to replace this with your actual Vercel link if available)
 
 ---
 
-## 📊 My GitHub Activity
+## My GitHub Activity
 
 [![Wakeupguruu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wakeupguruu&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
-* 📧 **Email:** [Your Professional Email Address]
-* 🔗 **LinkedIn:** [Link to your LinkedIn Profile]
-* 🐦 **Twitter/X (Optional):** [Link to your X/Twitter Handle]
+* 📧 **Email:** [vyasguruwork@gmail.com]: Recommended 
+* 🔗 **LinkedIn:** [www.linkedin.com/in/guru-vyas-16a0b82a7]
+* 
