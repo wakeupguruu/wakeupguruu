@@ -20,8 +20,8 @@ I am actively diving into decentralized systems and currently building a **Predi
 | Category | Technologies |
 | :--- | :--- |
 | **Front-End** | **Next.js** (TypeScript), React, HTML/CSS, Tailwind CSS |
-| **Back-End** | Node.js, **Next.js API Routes**, Python, Java |
-| **Database** | **PostgreSQL** (Prisma), MongoDB |
+| **Back-End** | Node.js, **Next.js API Routes**, Python, Rust, Solidity |
+| **Database** | **PostgreSQL** (Prisma), MongoDB, Firebase |
 | **DevOps** | **Docker**, **GitHub Actions**, CI/CD Pipeline Integration |
 | **Specialized** | LLM Integration (AI/Anthropic), **Manim** Animation Engine |
 
