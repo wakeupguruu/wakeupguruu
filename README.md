@@ -1,4 +1,4 @@
-# Hello, I'm [Guru]!
+# Hello, I'm Guru
 
 ### Full-Stack Developer | AI & Workflow Automation Enthusiast
 
