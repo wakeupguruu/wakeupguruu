@@ -45,13 +45,6 @@ Here are a few high-impact projects that showcase my technical expertise.
 * **Privacy-Focused Utility:** Developed a front-end website hosted on **Vercel** that converts Light Mode PDFs to **Dark Mode** entirely on the client's machine to guarantee user privacy.
 * **Client-Side Processing:** Engineered the application to run all core conversion logic locally in the browser, eliminating the need for a back-end or user data transmission.
 * ➡️ **Live Site:** [Vercel Deployment Link] (You may want to replace this with your actual Vercel link if available)
-
----
-
-## My GitHub Activity
-
-[![Wakeupguruu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wakeupguruu&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## Connect with Me
