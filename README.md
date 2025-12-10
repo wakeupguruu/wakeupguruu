@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | AI & Workflow Automation Enthusiast
 
-I specialize in building robust, data-driven web applications with a focus on solving complex problems, from educational tools to financial services. I enjoy integrating emerging technologies like LLMs and animation engines to create unique, valuable products.
+I specialize in building web applications with a focus on solving complex problems, from educational tools to AI services. I enjoy integrating emerging technologies like LLMs and animation engines to create unique, valuable products.
 
 ---
 
