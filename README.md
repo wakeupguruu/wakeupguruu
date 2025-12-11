@@ -1,54 +1,66 @@
-# Hello, I'm Guru
+# 👋 Hello, I'm Guru
 
-### Full-Stack Developer | AI & Workflow Automation Enthusiast
+### Full-Stack Developer (Learning AI + Web3)
 
-I specialize in building web applications with a focus on solving complex problems, from educational tools to AI services. I enjoy integrating emerging technologies like LLMs and animation engines to create unique, valuable products.
-
----
-
-## Current Web3 Focus
-
-I am actively diving into decentralized systems and currently building a **Prediction Market DApp** inspired by the architecture of Polymarket. This is a deep dive into core blockchain principles.
-
-* **Project Focus:** Developing **Solidity smart contracts** on the **Polygon network** to implement the **Conditional Token Framework (CTF)** for market creation and automated settlement.
-* **Key Learning:** Integrating **decentralized oracles (e.g., UMA)** and managing a **hybrid Order Book** approach to ensure transparent and efficient trading mechanics.
+I'm an early-stage developer who enjoys building projects to understand real technology — from full-stack apps to small AI experiments and beginner Web3 concepts.  
+I’m still learning and improving, but I like taking on projects that challenge me and teach me something new.
 
 ---
 
-## My Core Technology Stack
+## What I'm Learning Right Now
+
+### **Web3 Basics**
+I’m exploring decentralized systems by building a simple **Prediction Market DApp** as a learning exercise.
+---
+
+## 🛠️ Tech Stack I'm Comfortable With  
 
 | Category | Technologies |
-| :--- | :--- |
-| **Front-End** | **Next.js** (TypeScript), React, HTML/CSS, Tailwind CSS |
-| **Back-End** | Node.js, **Next.js API Routes**, Python, Rust, Solidity |
-| **Database** | **PostgreSQL** (Prisma), MongoDB, Firebase |
-| **DevOps** | **Docker**, **GitHub Actions**, CI/CD Pipeline Integration |
-| **Specialized** | LLM Integration (AI/Anthropic), **Manim** Animation Engine |
+|---------|--------------|
+| **Front-End** | Next.js (TypeScript), React, Tailwind CSS |
+| **Back-End** | Node.js, Next.js API Routes, Python, Solidity (beginner) |
+| **Database** | PostgreSQL (Prisma), MongoDB |
+| **DevOps** | Docker, GitHub Actions (basic CI/CD) |
+| **Other Interests** | LLM APIs, small AI automations |
 
 ---
 
-## Featured Projects
+## 🚀 Projects I Built to Learn
 
-Here are a few high-impact projects that showcase my technical expertise.
+### **1. EdVid — AI-Driven Video Generator (Learning Project)**
+A small experiment combining:
 
-### 1. EdVid (AI-Driven Video Generation)
-* **AI-First Application:** Developed a Next.js/TypeScript application for prompt-to-video generation by integrating an LLM and the specialized **Manim** animation engine.
-* **Contextual Logic:** Engineered a back-end system with PostgreSQL that facilitates **persistent context tracking**, enabling users to iteratively refine and extend complex video content.
-* ➡️ **Repository:** [https://github.com/wakeupguruu/EdVid](https://github.com/wakeupguruu/EdVid)
+- Next.js + TypeScript  
+- LLM prompt handling  
+- The **Manim** animation engine  
 
-### 2. Peer-to-Peer Wallet System
-* **Full-Stack Digital Wallet:** Designed a complete digital wallet platform simulating real-world payment and webhook workflows.
-* **CI/CD Implementation:** Implemented a robust CI/CD pipeline using **Docker** and **GitHub Actions** for automated testing and deployment.
-* ➡️ **Repository:** [https://github.com/wakeupguruu/Peer-to-Peer-Wallet-System](https://github.com/wakeupguruu/Peer-to-Peer-Wallet-System)
+I built this mainly to understand how AI tools and animation workflows connect.
 
-### 4. Dark PDF (Client-Side Privacy Tool)
-* **Privacy-Focused Utility:** Developed a front-end website hosted on **Vercel** that converts Light Mode PDFs to **Dark Mode** entirely on the client's machine to guarantee user privacy.
-* **Client-Side Processing:** Engineered the application to run all core conversion logic locally in the browser, eliminating the need for a back-end or user data transmission.
-* ➡️ **Live Site:** [Vercel Deployment Link] (You may want to replace this with your actual Vercel link if available)
+🔗 Repo: https://github.com/wakeupguruu/EdVid
+
 ---
 
-## Connect with Me
+### **2. Peer-to-Peer Wallet System (Practice Full-Stack Project)**
+A learning project where I implemented:
 
-* 📧 **Email:** [vyasguruwork@gmail.com]: Recommended 
-* 🔗 **LinkedIn:** [www.linkedin.com/in/guru-vyas-16a0b82a7]
-* 
+- Simple wallet transfers  
+- Webhook-like logic  
+- Docker + GitHub Actions for basic CI/CD  
+
+This helped me understand backend architecture and deployment patterns.
+
+🔗 Repo: https://github.com/wakeupguruu/Peer-to-Peer-Wallet-System
+
+---
+
+### **3. Dark PDF — Client-Side Utility**
+A small frontend tool that converts light PDFs to dark mode **entirely on the client side**, with no backend needed.
+
+🔗 Live: https://darkpdf.vercel.app
+
+---
+
+## Connect With Me
+
+- **Email:** vyasguruwork@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/guru-vyas-16a0b82a7
