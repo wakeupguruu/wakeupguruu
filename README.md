@@ -12,13 +12,13 @@
 
 ---
 
-### 🌱 About Me & What I'm Learning
+### About Me & What I'm Learning
 
 I’m currently diving into the **Open Source** ecosystem, navigating large codebases, and contributing meaningful features. I'm actively looking for opportunities to collaborate and give back to the developer community.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,python,postgres,tailwind,nodejs,git,docker,linux,pnpm,md&perline=12" alt="Tech Stack" />
@@ -26,7 +26,7 @@ I’m currently diving into the **Open Source** ecosystem, navigating large code
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project                                                       | Description                                                                                    | Tech                                                                                                                                                                                                                                               |
 | :------------------------------------------------------------ | :--------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
