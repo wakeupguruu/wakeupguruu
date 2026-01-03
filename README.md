@@ -39,7 +39,7 @@ I’m currently diving into the **Open Source** ecosystem. I'm navigating large,
 
   <br/>
 
-![Guru's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wakeupguruu&theme=react-dark)
+![Guru's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wakeupguruu&theme=github-compact)
 
 </div>
 
