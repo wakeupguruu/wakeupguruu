@@ -4,43 +4,50 @@
 
 <div align="center">
   <a href="https://guruvyas.vercel.app">
-    <img src="https://guruvyas.vercel.app/hero-character-removebg-preview.png" width="100" alt="Guru's Portfolio" />
+    <img src="https://guruvyas.vercel.app/hero-character-removebg-preview.png" width="120" alt="Guru's Portfolio" />
   </a>
   <br/>
-  <a href="https://guruvyas.vercel.app">
-    <b>Visit My Website ↗</b>
-  </a>
+  <h3><a href="https://guruvyas.vercel.app">Visit My Website ↗</a></h3>
 </div>
 
 ---
 
-### What I'm Learning Right Now
+### 🌱 About Me & What I'm Learning
 
-**Open Source & Community**  
-I’m currently diving into the **Open Source** ecosystem. I'm navigating large, complex codebases and contributing meaningful features or fixes to the tools I use daily. I'm actively looking for opportunities to collaborate and give back to the developer community.
-
----
-
-### Featured Projects
-
-| Project                                                       | Description                                                                                                     | Tech                                                                                                                                                                                                                                                               |
-| :------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[EdVid](https://github.com/wakeupguruu/EdVid)**             | **AI Educational Video Generator**<br>Transforms topics into animated videos using AI-generated code and Manim. | ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js) ![Python](https://img.shields.io/badge/Python-blue?logo=python) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)                                  |
-| **[WebSpark AI](https://github.com/wakeupguruu/WebSpark-AI)** | **AI Website Builder**<br>Generates functional React apps from text prompts using in-browser WebContainers.     | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) |
-| **[Dark PDF](https://github.com/wakeupguruu/dark-pdf)**       | **Private PDF Dark Mode**<br>Browser-based tool to convert PDFs to dark mode without server uploads.            | ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![PDF-Lib](https://img.shields.io/badge/PDF_Lib-orange)                                    |
+I’m currently diving into the **Open Source** ecosystem, navigating large codebases, and contributing meaningful features. I'm actively looking for opportunities to collaborate and give back to the developer community.
 
 ---
+
+### 🛠️ Tech Stack
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,python,postgres,tailwind,nodejs,git,docker,linux,pnpm,md&perline=12" alt="Tech Stack" />
+</div>
 
-### GitHub Stats
+---
 
-![Guru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wakeupguruu&show_icons=true&theme=tokyonight)
+### 🚀 Featured Projects
 
+| Project                                                       | Description                                                                                    | Tech                                                                                                                                                                                                                                               |
+| :------------------------------------------------------------ | :--------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[EdVid](https://github.com/wakeupguruu/EdVid)**             | **AI Educational Video Generator**<br>Transforms topics into animated videos using AI & Manim. | ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js) ![Python](https://img.shields.io/badge/Python-blue?logo=python) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)                  |
+| **[WebSpark AI](https://github.com/wakeupguruu/WebSpark-AI)** | **AI Website Builder**<br>Generates functional React apps from text prompts.                   | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TS](https://img.shields.io/badge/TS-007ACC?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) |
+| **[Dark PDF](https://github.com/wakeupguruu/dark-pdf)**       | **Private PDF Dark Mode**<br>Browser-based PDF dark mode converter.                            | ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) ![PDF-Lib](https://img.shields.io/badge/PDF_Lib-orange)                        |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <a href="https://github.com/wakeupguruu">
+    <img src="https://github-readme-stats.vercel.app/api?username=wakeupguruu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Guru's GitHub Stats" />
+  </a>
   <br/>
-
-![Guru's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wakeupguruu&theme=github-compact)
-
+  <!-- Activity Graph -->
+  <a href="https://github.com/wakeupguruu">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wakeupguruu&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Guru's Activity Graph" />
+  </a>
 </div>
 
 <div align="center">
