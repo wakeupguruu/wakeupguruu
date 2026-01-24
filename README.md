@@ -39,11 +39,7 @@ I’m currently diving into the **Open Source** ecosystem, navigating large code
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <a href="https://github.com/wakeupguruu">
-    <img src="https://github-readme-stats.vercel.app/api?username=wakeupguruu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Guru's GitHub Stats" />
-  </a>
-  <br/>
+
   <!-- Activity Graph -->
   <a href="https://github.com/wakeupguruu">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=wakeupguruu&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Guru's Activity Graph" />
