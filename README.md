@@ -4,8 +4,6 @@ I got into software because it lets me take any problem — personal or real-wor
 
 I like understanding how systems work underneath, which is what pulled me into LLMs, automation, and shipping real ideas. I work mostly in TypeScript and Python AI systems, full-stack apps, backend services, and small utilities that solve real problems. <br><br>   
 
-<b>Currently building <a href="https://taxcopilot.link">TaxCopilot</a></b> an AI operating system for Indian CA firms. Notice decoding, reconciliation, and compliance, built on a harness strong enough that professionals can actually trust it. <br><br>
-
 When I'm not deep in a codebase or contributing to open source, you'll find me listening to music or watching anime.
 
   <p align="left">
